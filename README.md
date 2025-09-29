@@ -4,3 +4,4 @@ dsci 100 project
 
 project creation date: 9/29/25
 
+author: Max Chung
